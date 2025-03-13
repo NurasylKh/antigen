@@ -13,14 +13,14 @@ export interface ISeminarsItems {
 const SEMINARS_ITEMS: ISeminarsItems[] = [
 	{
 		date: '15.04.2025',
-		topic: 'Основы кинезиологии',
+		topic: 'Основы медицины',
 		speaker: 'Иван Иванов',
 		cost: '20 000 Тенге',
 		format: 'offline',
 	},
 	{
 		date: '20.04.2025',
-		topic: 'Спортивная кинезиология',
+		topic: 'Спортивная медицина',
 		speaker: 'Мария Петрова',
 		cost: '30 000 Тенге',
 		format: 'online',
@@ -34,7 +34,7 @@ const SEMINARS_ITEMS: ISeminarsItems[] = [
 	},
 	{
 		date: '30.04.2025',
-		topic: 'Детская кинезиология',
+		topic: 'Детская медицина',
 		speaker: 'Мария Петрова',
 		cost: '30 000 Тенге',
 		format: 'online',

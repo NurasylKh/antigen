@@ -76,14 +76,14 @@ export const Footer = () => {
 									<FaYoutube className='w-6 h-6 hover:text-gray-200 transition' />
 								</a>
 								<a
-									href='https://youtube.com'
+									href='https://t.me/ecomnur'
 									target='_blank'
 									rel='noopener noreferrer'
 								>
 									<FaTelegram className='w-6 h-6 hover:text-gray-200 transition' />
 								</a>
 								<a
-									href='https://youtube.com'
+									href='https://wa.me/77073437412'
 									target='_blank'
 									rel='noopener noreferrer'
 								>
